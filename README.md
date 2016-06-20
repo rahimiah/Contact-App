@@ -279,7 +279,7 @@ CloudBees have provided a CI/deployment setup:
 <img src="https://d3ko533tu1ozfq.cloudfront.net/clickstart/deployInstantly.png"/></a>
 
 If you run this, you will get a cloned version of this repo to start working on in a private git repo,
-along with a CI service (in Jenkins) hosted that will run unit and end to end tests in both Firefox and Chrome.
+along with a CI service (in Jenkins) hosted that will run init and end to end tests in both Firefox and Chrome.
 
 
 ## Contact
